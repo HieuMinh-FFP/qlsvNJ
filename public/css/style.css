@@ -1,0 +1,12 @@
+.active {
+	background-color: yellow !important;
+	color: red !important;
+}
+
+label {
+	font-weight: normal;
+}
+label.error{
+	color: red;
+	font-size: 16px;
+}
